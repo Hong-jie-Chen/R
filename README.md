@@ -1,0 +1,4 @@
+Code Availability Statement
+This code contains the data cleaning and the vast majority of the statistical analyses from Sleep Duration Impacts Frailty Risk Trajectories via Cognition and Depression in Middle-Aged and Older Adults (cohort trajectory analysis, baseline feature analysis, multiple logistic regression analysis, restricted cubic spline analysis, and subgroup analysis).
+After my test, the code can run successfully on my local computer, but on other computer devices, there may be a case where the code runs incorrectly due to the working path or the original file being missing.
+Therefore, it is recommended that you first register and request the original data in the official CHARLS website before viewing and replicating the process and subsequently analyzing it with this code.（CHARLS official websit: https://charls.pku.edu.cn/）
